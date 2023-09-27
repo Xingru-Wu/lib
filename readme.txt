@@ -10,4 +10,4 @@ gui.py----GUI visibility
 
 1. Create databases in Mysql.
 2. Revise the name of the database in "connect.py" to connect your own database.
-3. run "main.py" to use the system.
+3. Run "main.py" to use the system.
